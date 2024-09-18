@@ -1,0 +1,16 @@
+D:/Projects/Pycharm_projects/CV/lab01/tlights\100_02.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\100_24.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\100_39.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_20.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_37.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_38.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_39.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_40.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_43.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_46.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_47.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_49.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_54.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_55.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_59.jpg
+D:/Projects/Pycharm_projects/CV/lab01/tlights\200_60.jpg
