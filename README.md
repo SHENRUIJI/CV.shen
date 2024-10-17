@@ -12,13 +12,13 @@
 - <span style="font-size: 1.2em;">`pipes-4.ipynb`</span>: Основные файлы кода, которые подсчитывают количество деревянных брёвен и труб на изображении <<pipes-6.ipynb>>.
 
 ### Изображения, связанные с кодовыми файлами
-- <span style="font-size: 1.2em;">`green.ipynb`</span>: Файлы изображений <<logs-1.jpg>>.
-- <span style="font-size: 1.2em;">`red.ipynb`</span>: Файлы изображений <<logs-2.jpg>>.
-- <span style="font-size: 1.2em;">`yellow.ipynb`</span>:  Файлы изображений <<logs-3.jpg>>.
-- <span style="font-size: 1.2em;">`yellow.ipynb`</span>:  Файлы изображений <<logs-4.jpg>>.
-- <span style="font-size: 1.2em;">`yellow.ipynb`</span>:  Файлы изображений <<pipes-4.jpg>>.
-- <span style="font-size: 1.2em;">`yellow.ipynb`</span>:  Файлы изображений <<pipes-4.jpg>>.
-- <span style="font-size: 1.2em;">`yellow.ipynb`</span>:  Файлы изображений <<pipes-4.jpg>>.
+- <span style="font-size: 1.2em;">`logs-1.jpg`</span>: Файлы изображений <<logs-1.jpg>>.
+- <span style="font-size: 1.2em;">`logs-2.jpg`</span>: Файлы изображений <<logs-2.jpg>>.
+- <span style="font-size: 1.2em;">`logs-3.jpg`</span>:  Файлы изображений <<logs-3.jpg>>.
+- <span style="font-size: 1.2em;">`logs-4.jpg`</span>:  Файлы изображений <<logs-4.jpg>>.
+- <span style="font-size: 1.2em;">`pipes-4.jpg`</span>:  Файлы изображений <<pipes-4.jpg>>.
+- <span style="font-size: 1.2em;">`pipes-5.jpg`</span>:  Файлы изображений <<pipes-4.jpg>>.
+- <span style="font-size: 1.2em;">`pipes-6.jpg`</span>:  Файлы изображений <<pipes-4.jpg>>.
 
 # Описание папки lab1
 
